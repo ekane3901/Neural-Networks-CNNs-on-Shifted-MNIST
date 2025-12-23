@@ -20,3 +20,6 @@ Tools & Technologies
 	•	Python, PyTorch, Torchvision, Matplotlib
 	•	DataLoader and custom preprocessing for shifted MNIST
 	•	Visualization of example digits and model outputs
+
+
+<img width="71" height="349" alt="image" src="https://github.com/user-attachments/assets/8ee89307-0836-4e4c-afd8-e9f3e009faf1" />
